@@ -1,5 +1,3 @@
-# X2Go
-
 ## Installation
 
 First install X2Go on your device:
@@ -9,9 +7,13 @@ First install X2Go on your device:
 
 ## Starting a session
 
+### New session
+
 After opening X2Go, start a **New session**:
 
 ![new_session](https://user-images.githubusercontent.com/31464556/57978043-0fa1b280-7a48-11e9-957c-3f436e01f00a.png)
+
+### Configuration
 
 Configure your session by entering the **Session name, Host, Login** and **Session type**:
 
@@ -26,6 +28,8 @@ Before clicking OK, add desirable **Shared folders**:
 Click **OK**, then enter your **Password**, then click **OK** again:
 
 ![password](https://user-images.githubusercontent.com/31464556/57978083-1ed53000-7a49-11e9-836f-0dd1d61b4cf1.png)
+
+### Other prompts
 
 You might be asked about a key – click **Yes**.
 You might also see this screen:
