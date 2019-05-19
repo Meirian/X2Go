@@ -1,9 +1,9 @@
 ## Installation
 
 First install X2Go on your device:
-- for Mac: <http://go.unimelb.edu.au/c46r>
-- for OSX: <http://go.unimelb.edu.au/746r>
-- for Windows: <http://go.unimelb.edu.au/g46r>
+- for Mac: [http://go.unimelb.edu.au/c46r](http://go.unimelb.edu.au/c46r)
+- for OSX: [http://go.unimelb.edu.au/746r](http://go.unimelb.edu.au/746r)
+- for Windows: [http://go.unimelb.edu.au/g46r](http://go.unimelb.edu.au/g46r)
 
 ## Starting a session
 
