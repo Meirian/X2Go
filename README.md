@@ -1,9 +1,14 @@
 ## Installation
 
-First install X2Go on your device:
+First install **X2Go** on your device:
 - for Mac: [http://go.unimelb.edu.au/c46r](http://go.unimelb.edu.au/c46r)
 - for OSX: [http://go.unimelb.edu.au/746r](http://go.unimelb.edu.au/746r)
 - for Windows: [http://go.unimelb.edu.au/g46r](http://go.unimelb.edu.au/g46r)
+
+Please also download **data-shell.zip** and save it to your Desktop for later use:
+
+[http://go.unimelb.edu.au/bb6r](http://go.unimelb.edu.au/bb6r)[^1]
+
 
 ## Starting a session
 
@@ -43,3 +48,5 @@ The **Software Updater** may open automatically:
 ![software_updater](https://user-images.githubusercontent.com/31464556/57978085-24327a80-7a49-11e9-96de-b67c072b77a6.png)
 
 Usually you can either select Remind Me Later or Install Now, but during workshop please select **Remind Me Later** - we’ll show you another way to do this later.
+
+[^1]: This folder is derived from work that is Copyright © [Software Carpentry](http://software-carpentry.org). It was originally produced by Pawsey under a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0). For more information refer to [PawseySC's GitHub page](https://github.com/PawseySC/shell-hpc/blob/gh-pages/LICENSE.md). 
