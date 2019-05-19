@@ -35,4 +35,4 @@ The **Software Updater** may open automatically:
 
 ![software_updater](https://user-images.githubusercontent.com/31464556/57978085-24327a80-7a49-11e9-96de-b67c072b77a6.png)
 
-Usually you can either select Remind Me Later or Install Now, but during workshop please select **Remind Me Later** --- we’ll see another way to do this later.
+Usually you can either select Remind Me Later or Install Now, but during workshop please select **Remind Me Later** - we’ll show you another way to do this later.
