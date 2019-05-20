@@ -5,9 +5,8 @@ First install **X2Go** on your device:
 - for OSX: [http://go.unimelb.edu.au/746r](http://go.unimelb.edu.au/746r)
 - for Windows: [http://go.unimelb.edu.au/g46r](http://go.unimelb.edu.au/g46r)
 
-Please also download **data-shell.zip** and save it to your Desktop for later use:
-
-[http://go.unimelb.edu.au/bb6r](http://go.unimelb.edu.au/bb6r)[^1]
+Please also download **data-shell.zip**[^1] and save it to your Desktop for later use:
+[http://go.unimelb.edu.au/bb6r](http://go.unimelb.edu.au/bb6r)
 
 
 ## Starting a session
